@@ -1,4 +1,1 @@
 cat "Hello, World"
-
-./0-hello_world 
-./0-hello_world | cat -e
